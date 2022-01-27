@@ -1,4 +1,6 @@
-## Descripción 🏝
+![DC-Shoes-Copycat](./design/desktop-preview.jpg)
+
+# DC Shoes España Copycat
 
 Imitación de la web de [DC Shoes España](https://www.dcshoes.es/) como práctica.
 
@@ -15,6 +17,7 @@ Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz dob
 
 ## Construido con 🛠️
 * HTML5
+* CSS custom properties
 * SASS
 * VanillaJS
 * BEM Naming Convention
