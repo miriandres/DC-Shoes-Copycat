@@ -6,6 +6,7 @@ Imitación de la web de [DC Shoes España](https://www.dcshoes.es/) como prácti
 
 ## Autor ✒️
 **Miriam Andrés** - *Documentación y trabajo inicial*
+* [Website](https://miriamandres.com)
 * [Github](https://github.com/miriandres)
 * [LinkedIn](www.linkedin.com/in/miriamandresdev)
 
